@@ -1,0 +1,468 @@
+body{
+    overflow-x:hidden;
+}
+.navbar{
+    padding-top: 30px;
+    position: relative;
+    z-index: 10;
+    margin-right: 10%;
+
+}
+.nav-link{
+    color: black;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+}
+.nav-link{
+    margin-right: 2em !important;
+}
+.nav-link:hover{
+    color: #019edb;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar-toggler {
+    background: black !important;
+}
+
+
+.page1 .blue{
+    position: absolute;
+    top: -390px;
+    left: -10px;
+}
+
+.page1 .blue-text{
+    color: white;
+    margin-left: 42%;
+    margin-top: -29%;
+}
+.page1 .blue-text h2{
+   margin: 0;
+}
+.page1 .blue-text h6{
+    margin-left: 7px;
+}
+
+.page1 .black{
+    position: absolute;
+    top: -485px;
+    left: 150px;
+}
+
+.page1 .logo-white{
+    position: absolute;
+    top: 17px;
+    left: 182px;
+}
+.page1 .logo-black{
+    position: absolute;
+    top: 32px;
+    left: 202px;
+}
+
+.page1 .gray{
+    position: absolute;
+    top: -1062px;
+    left: 565px;
+}
+.page1 .gray-min{
+    position: absolute;
+    top: 200px;
+    left: -379px;
+}
+
+.page1 .black-center{
+    position: absolute;
+    top: 320px;
+    left: 110px;
+}
+.page1 .black-center h3 {
+    color: #019edb;
+    font-size: 33px;
+}
+.page1 .black-center p{
+    color: white;
+    margin-bottom: 45px;
+    font-size: 15px;
+}
+.page1 .black-center-text{
+    margin-top: -70%;
+    margin-left: 30%;
+}
+.page1 .black-center-text a{
+    color: white;
+    text-decoration: none;
+    background: #019edb;
+    border-radius: 45px;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.page1 .blue-center{
+    position: absolute;
+    top: 740px;
+    left: 310px;
+}
+.page1 .blue-center-text img{
+    margin-left: 19%;
+    margin-bottom: 15px;
+}
+.page1 .blue-center h3 {
+    font-size: 24px;
+}
+.page1 .blue-center p{
+    margin-bottom: 45px;
+    font-size: 15px;
+}
+.page1 .blue-center-text{
+    margin-top: -82%;
+    margin-left: 25%;
+    color: white;
+}
+
+.page1 .blue-center-min{
+    position: absolute;
+    top: 290px;
+    left: 455px;
+}
+.page1 .photo{
+    position: absolute;
+    top: 710px;
+    left: 565px;
+}
+.page1 .big-photo{
+    position: absolute;
+    top: 80px;
+    left: 325px;
+}
+
+.page1 .background{
+    margin-top: 557px;
+    background-image: url("../img/Layer 11 (1).png");
+
+}
+.page1 .content{
+    color: white;
+    padding-top: 726px;
+    text-align: center;
+    padding-bottom: 75px;
+}
+.page1 .content h1 {
+    font-size: 37px;
+}
+.page1 .content h2{
+    font-size: 24px;
+    margin-bottom: 60px;
+}
+.page1 .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page1 .content .text{
+    padding: 40px 2px 40px 40px;
+    text-align: left;
+    background: rgba(0, 0, 0, 0.5);
+}
+.page1 .container{
+    margin-bottom: 50px;
+}
+.page1 .content a{
+    color: white;
+    text-decoration: none;
+    background: #019edb;
+    border-radius: 45px;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+.page2{
+    background-image: url("../img/Rectangle 3 copy 2 (1).png");
+    background-position: center 385px;
+    background-size: cover;
+}
+.page2 .photo-center{
+    width: 100%;
+}
+.page2 .photo-left{
+    position: absolute;
+    top: 2593px;
+    left: 100px;
+}
+.page2 .photo-right{
+    position: absolute;
+    top: 2593px;
+    right: 100px;
+}
+
+.page2 .white-center{
+    position: absolute;
+    top: 2433px;
+    left: 407px;
+}
+.page2 .white-center h2 {
+    color: #019edb;
+    font-size: 42px;
+}
+.page2 .white-center p{
+    margin-bottom: 45px;
+    font-size: 16px;
+}
+.page2 .white-center-text{
+    text-align: center;
+    margin-top: -67%;
+    margin-left: 4%;
+}
+.page2 .white-center-text a{
+    color: white;
+    text-decoration: none;
+    background: #019edb;
+    border-radius: 45px;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.page2 .black-center{
+    position: absolute;
+    top: 2385px;
+    left: 375px;
+}
+.page2 .black-center .two{
+    margin-left: -47%;
+}
+.page2 .text-bottom{
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 123px;
+}
+.page2 .text-bottom h3{
+    margin-bottom: 40px;
+}
+
+
+
+
+.page3{
+    background-image: url("../img/Layer 2 (1).png");
+    background-position: center top;
+    background-size: cover;
+}
+.page3 .title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 90px 0 14px 0;
+}
+
+.title .text {
+    margin-top: -7%;
+    text-align: center;
+    color: white;
+}
+
+.title .text img{
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.title .text h2{
+    margin-bottom: 27px;
+    font-size: 39px;
+}
+.title .text h3{
+    margin-bottom: 55px;
+    font-size: 24px;
+}
+.page3 .container-fluid .info img{
+    float: left;
+    padding:0 35px 50px 0;
+}
+.page3 .container-fluid{
+    padding-bottom: 160px;
+}
+
+.page3 .container-fluid .info{
+    padding: 0;
+}
+.page3 .container-fluid h4{
+    font-size: 17px;
+    color: #019edb;;
+}
+.page3 .container-fluid p{
+    font-size: 16px;
+    color: white;
+}
+.page3 .container-fluid .line{
+    text-align: center;
+    padding: 0;
+}
+.page3 .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.page4{
+    background-image: url("../img/Layer 3(1).png");
+    background-position: center top;
+    background-size: cover;
+}
+.page4 .title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 105px;
+}
+
+.page4 .title .text {
+    margin-top: -7%;
+    text-align: center;
+    color: white;
+}
+
+.page4 .title .text img{
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.page4 .title .text h2{
+    margin-bottom: 27px;
+    font-size: 39px;
+}
+.page4 .title .text h3{
+    margin-bottom: 55px;
+    font-size: 24px;
+}
+.page4 .left-text{
+    text-align: right;
+    color: white;
+}
+.page4 .right-text{
+    text-align: left;
+    color: white;
+}
+.page4 .image{
+    text-align: center;
+}
+.page4 .container{
+    padding-bottom: 112px;
+}
+.page4 .container p {
+    margin-bottom: 37px;
+}
+.page4 .container a{
+    color: white;
+    text-decoration: none;
+    background: #019edb;
+    border-radius: 45px;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.page4 .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.social{
+    background: #019edb;
+}
+.social ul{
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin: 0;
+}
+.social li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 30px;
+}
+
+
+
+
+
+.page5{
+    background-image: url("../img/Layer 10(1).png");
+    background-position: center top;
+    background-size: cover;
+    text-align: center;
+}
+.page5 .title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.page5 .title .text {
+    margin-top: -7%;
+    text-align: center;
+    color: white;
+}
+
+.page5 .title .text img{
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.page5 .title .text h2{
+    margin-bottom: 60px;
+    font-size: 39px;
+}
+
+.page5 .container img{
+    float: left;
+    padding:0 35px 35px 0;
+}
+.page5 .container{
+    padding-bottom: 70px;
+    color: white;
+    text-align: left!important;
+}
+
+.page5 .container .info{
+    padding: 0;
+}
+.page5 .container h4{
+    font-size: 17px;
+}
+.page5 .container p{
+    font-size: 16px;
+}
+.page5 .line{
+    color: white;
+    margin-bottom: 35px;
+}
+.page5 .top-button a{
+    color: white;
+    text-decoration: none;
+}
+.page5 .top-button{
+    position: relative;
+    display:inline-block;
+}
+
+.page5 .top-button .button{
+    position: absolute;
+    top: 25px;
+    left: 65px;
+
+}
