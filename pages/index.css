@@ -3,3 +3,20 @@
 
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__banners/header__banners.css);
+@import url(../blocks/header/__banners-container/header__banners-container.css);
+@import url(../blocks/header/__main-banner/header__main-banner.css);
+@import url(../blocks/header/__banner/header__banner.css);
+
+@import url(../blocks/header/__decorative-block/header__decorative-block.css);
+@import url(../blocks/header/__decorative-block-back/header__decorative-block-back.css);
+
+@import url(../blocks/header/__banner-text-top/header__banner-text-top.css);
+@import url(../blocks/header/__banner-top/header__banner-top.css);
+
+@import url(../blocks/header/__banner-text-bottom/header__banner-text-bottom.css);
+@import url(../blocks/header/__banner-bottom-back/header__banner-bottom-back.css);
+
+
+@import url(../blocks/banner-text-top/__title.css);

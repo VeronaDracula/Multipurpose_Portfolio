@@ -1,0 +1,6 @@
+.header__main-banner {
+    object-fit: cover;
+    width: 100%;
+    position: relative;
+    right: -8px;
+}
