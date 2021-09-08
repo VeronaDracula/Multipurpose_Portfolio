@@ -1,0 +1,12 @@
+.banner-text-bottom__title {
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0 0 26px 0;
+    position: relative;
+    left: 11px;
+}

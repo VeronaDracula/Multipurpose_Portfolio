@@ -1,3 +1,9 @@
 .banner-text-top__title {
-
+    font-size: 33px;
+    color: #019edb;
+    font-weight: 900;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0 0 33px 0;
 }

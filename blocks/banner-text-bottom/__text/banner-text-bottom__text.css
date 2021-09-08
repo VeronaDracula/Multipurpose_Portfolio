@@ -1,0 +1,9 @@
+.banner-text-bottom__text {
+    max-width: 256px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    margin: 0;
+}

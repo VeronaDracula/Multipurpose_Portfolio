@@ -6,6 +6,7 @@
     font-family: "Lato", sans-serif;
     text-transform: uppercase;
     text-decoration: none;
+    font-style: normal;
 }
 
 .header__menu-link:hover {
