@@ -4,4 +4,5 @@
     background-size: cover;
     min-height: 1855px;
     padding-bottom: 74px;
+    box-sizing: border-box;
 }

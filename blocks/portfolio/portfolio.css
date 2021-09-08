@@ -1,0 +1,6 @@
+.portfolio {
+    background-image: url("../../images/back-portfolio.jpg");
+    background-position: top center;
+    background-size: cover;
+    box-sizing: border-box;
+}

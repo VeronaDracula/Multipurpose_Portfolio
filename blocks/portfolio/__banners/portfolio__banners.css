@@ -1,0 +1,10 @@
+.portfolio__banners {
+    /*display: grid;
+    grid-template-columns: minmax(200px, 537px);
+    align-items: center;
+    justify-content: center;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
