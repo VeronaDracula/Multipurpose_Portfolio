@@ -1,0 +1,11 @@
+.header__title {
+    font-size: 37px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-weight: 900;
+    font-family: "Lato", sans-serif;
+    margin: 0 0 22px 0;
+    font-style: normal;
+    text-transform: uppercase;
+
+}

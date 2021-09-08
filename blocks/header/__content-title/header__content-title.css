@@ -1,0 +1,9 @@
+.header__content-title {
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+    font-family: "HarabaraMais", sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0 0 23px 0;
+}

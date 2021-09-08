@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef725daa-d2da-4558-918a-46fe66bc9911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/banner-text-bottom/__img/banner-text-bottom__img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner-text-bottom/__text-container/banner-text-bottom__text-container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner-text-bottom/__text/banner-text-bottom__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner-text-bottom/__title/banner-text-bottom__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner-text-top/__text-container/banner-text-top__text-container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/banner-text-top/__text/banner-text-top__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/button/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__content-column/header__content-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__content-text/header__content-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__content-texts/header__content-texts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__content-title/header__content-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__content/header__content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__dividing-line/header__dividing-line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/banner-text-top/__title/banner-text-top__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/banner-text-top/__title/banner-text-top__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__banner-text-bottom/header__banner-text-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__banner-text-bottom/header__banner-text-bottom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__banner-text-top/header__banner-text-top.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__banner-text-top/header__banner-text-top.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-link/header__menu-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-link/header__menu-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts.css" afterDir="false" />
@@ -70,7 +68,7 @@
       <workItem from="1629650447820" duration="13929000" />
       <workItem from="1629815467927" duration="603000" />
       <workItem from="1630692536638" duration="1622000" />
-      <workItem from="1630777420560" duration="18615000" />
+      <workItem from="1630777420560" duration="21342000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1629736671170</created>
@@ -100,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631089078904</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="banners texts">
+      <created>1631093073269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631093073269</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,17 +115,18 @@
     <MESSAGE value="new files" />
     <MESSAGE value="header__banners" />
     <MESSAGE value="menu, logo, banners, fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu, logo, banners, fonts" />
+    <MESSAGE value="banners texts" />
+    <option name="LAST_COMMIT_MESSAGE" value="banners texts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629733068183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1629733068183" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1631089078262">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1631093072657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631089078262" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631093072657" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630742633586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

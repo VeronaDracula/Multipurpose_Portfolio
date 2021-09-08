@@ -1,0 +1,8 @@
+.header__content-text {
+    max-width: 260px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+}

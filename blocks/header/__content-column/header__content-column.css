@@ -1,0 +1,6 @@
+.header__content-column {
+    background-color: rgba(69, 69, 69, 0.5);
+    min-width: 202px;
+    padding: 38px 27px 38px 34px;
+    box-sizing: border-box;
+}

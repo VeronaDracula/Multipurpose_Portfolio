@@ -12,7 +12,6 @@
 @import url(../blocks/header/__menu-item/header__menu-item.css);
 @import url(../blocks/header/__menu-link/header__menu-link.css);
 
-
 @import url(../blocks/header/__banners/header__banners.css);
 @import url(../blocks/header/__banners-container/header__banners-container.css);
 @import url(../blocks/header/__main-banner/header__main-banner.css);
@@ -27,12 +26,23 @@
 @import url(../blocks/banner-text-top/__title/banner-text-top__title.css);
 @import url(../blocks/banner-text-top/__text/banner-text-top__text.css);
 
-
 @import url(../blocks/header/__banner-text-bottom/header__banner-text-bottom.css);
 @import url(../blocks/banner-text-bottom/__back/banner-text-bottom__back.css);
 @import url(../blocks/banner-text-bottom/__text-container/banner-text-bottom__text-container.css);
 @import url(../blocks/banner-text-bottom/__img/banner-text-bottom__img.css);
 @import url(../blocks/banner-text-bottom/__title/banner-text-bottom__title.css);
 @import url(../blocks/banner-text-bottom/__text/banner-text-bottom__text.css);
+
+@import url(../blocks/header/__content/header__content.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__content-texts/header__content-texts.css);
+@import url(../blocks/header/__content-column/header__content-column.css);
+@import url(../blocks/header/__content-title/header__content-title.css);
+@import url(../blocks/header/__content-text/header__content-text.css);
+@import url(../blocks/header/__dividing-line/header__dividing-line.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/header.css);
+
 
 

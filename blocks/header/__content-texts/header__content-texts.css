@@ -1,0 +1,6 @@
+.header__content-texts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 52px 0;
+}
