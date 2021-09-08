@@ -51,11 +51,14 @@
 @import url(../blocks/portfolio/__banner-number/portfolio__banner-number.css);
 @import url(../blocks/portfolio/__banner-text/portfolio__banner-text.css);
 @import url(../blocks/portfolio/__banner-text-back/portfolio__banner-text-back.css);
-@import url(../blocks/portfolio/portfolio.css);
-@import url(../blocks/portfolio/portfolio.css);
-@import url(../blocks/portfolio/portfolio.css);
-@import url(../blocks/portfolio/portfolio.css);
-@import url(../blocks/portfolio/portfolio.css);
+
+@import url(../blocks/portfolio/__banner-text-container/portfolio__banner-text-container.css);
+@import url(../blocks/portfolio/__banner-text-title/portfolio__banner-text-title.css);
+@import url(../blocks/portfolio/__banner-text-text/portfolio__banner-text-text.css);
+
+@import url(../blocks/portfolio/__content/portfolio__content.css);
+@import url(../blocks/portfolio/__content-title/portfolio__content-title.css);
+@import url(../blocks/portfolio/__content-text/portfolio__content-text.css);
 
 
 

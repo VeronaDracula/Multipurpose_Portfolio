@@ -1,0 +1,12 @@
+.portfolio__content-text {
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    max-width: 803px;
+    text-align: center;
+    margin: 0;
+}

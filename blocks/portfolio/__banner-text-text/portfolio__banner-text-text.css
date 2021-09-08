@@ -1,0 +1,9 @@
+.portfolio__banner-text-text {
+    max-width: 250px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1b1b1b;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+    margin: 0 0 49px 0;
+}
