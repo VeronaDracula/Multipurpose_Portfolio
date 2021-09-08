@@ -1,0 +1,14 @@
+.header__menu-link {
+    font-size: 13px;
+    letter-spacing: 0;
+    color: #373636;
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.header__menu-link:hover {
+    cursor: pointer;
+    color: #019edb;
+}

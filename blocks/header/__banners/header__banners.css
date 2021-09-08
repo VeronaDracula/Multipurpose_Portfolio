@@ -1,13 +1,16 @@
 .header__banners {
     display: grid;
-    /*grid-template-columns: repeat(auto-fit, minmax(280px, 1084px));*/
     grid-template-columns: minmax(280px, 1084px);
     align-items: center;
     justify-content: flex-end;
 
-    padding-left: 20%;
-
-
-
+    padding-left: 23%;
+    position: relative;
+    top: -94px;
 }
 
+@media screen and (min-width: 1440px) {
+    .header__banners {
+        grid-template-columns: minmax(280px, 1500px);
+    }
+}

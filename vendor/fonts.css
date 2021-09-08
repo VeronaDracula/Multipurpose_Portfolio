@@ -1,0 +1,40 @@
+@font-face {
+    src: url(../fonts/latoblack.woff2) format('woff2'),
+         url(../fonts/latoblack.woff) format('woff');
+    font-family: 'Lato';
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/latoheavy.woff2) format('woff2'),
+         url(../fonts/latoheavy.woff) format('woff');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/latolight.woff2) format('woff2'),
+         url(../fonts/latolight.woff) format('woff');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/latoregular.woff2) format('woff2'),
+         url(../fonts/latoregular.woff) format('woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/latosemibold.woff2) format('woff2'),
+         url(../fonts/latosemibold.woff) format('woff');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'HarabaraMais';
+    src: url(../fonts/HarabaraMaisBold.woff) format('woff');
+    font-weight: 600;
+}
