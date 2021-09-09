@@ -1,0 +1,6 @@
+.work__content {
+    display: grid;
+    grid-template-columns: 5fr 1fr 5fr 1fr 5fr;
+    align-items: center;
+    justify-content: center;
+}

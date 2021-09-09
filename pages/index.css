@@ -2,8 +2,19 @@
 @import url(../vendor/fonts.css);
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__container/page__container.css);
 
 @import url(../blocks/button/button.css);
+
+@import url(../blocks/title/title.css);
+@import url(../blocks/title/_section/title_section_work.css);
+@import url(../blocks/title/__img/title__img.css);
+@import url(../blocks/title/__text/title__text.css);
+@import url(../blocks/title/__text/_section/title__text_section_work.css);
+@import url(../blocks/title/__title/title__title.css);
+@import url(../blocks/title/__title/_section/title__title_section_work.css);
+@import url(../blocks/title/__subtitle/title__subtitle.css);
+@import url(../blocks/title/__subtitle/_section/title__subtitle_section_work.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo-menu-container/header__logo-menu-container.css);
@@ -59,6 +70,15 @@
 @import url(../blocks/portfolio/__content/portfolio__content.css);
 @import url(../blocks/portfolio/__content-title/portfolio__content-title.css);
 @import url(../blocks/portfolio/__content-text/portfolio__content-text.css);
+
+@import url(../blocks/work/work.css);
+@import url(../blocks/work/__content/work__content.css);
+@import url(../blocks/work/__dividing-line/work__dividing-line.css);
+@import url(../blocks/work/__column/work__column.css);
+@import url(../blocks/work/__column-img/work__column-img.css);
+@import url(../blocks/work/__column-description/work__column-description.css);
+@import url(../blocks/work/__column-title/work__column-title.css);
+@import url(../blocks/work/__column-subtitle/work__column-subtitle.css);
 
 
 

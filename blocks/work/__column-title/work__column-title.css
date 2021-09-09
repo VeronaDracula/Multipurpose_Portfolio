@@ -1,0 +1,11 @@
+.work__column-title {
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 17px;
+    color: #019edb;
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0 0 22px 0;
+}
