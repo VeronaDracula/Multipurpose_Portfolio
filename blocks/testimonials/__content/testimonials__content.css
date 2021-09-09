@@ -1,0 +1,6 @@
+.testimonials__content {
+    display: grid;
+    grid-template-columns: minmax(200px, 320px) minmax(50px, 168px) minmax(200px, 320px);
+    align-items: center;
+    justify-content: center;
+}

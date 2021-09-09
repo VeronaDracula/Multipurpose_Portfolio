@@ -2,26 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef725daa-d2da-4558-918a-46fe66bc9911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/page/__container/page__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__img/title__img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__subtitle/_section/title__subtitle_section_work.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__subtitle/title__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__text/_section/title__text_section_work.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__text/title__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__title/_section/title__title_section_work.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/__title/title__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/_section/title_section_work.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/title/title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__column-description/work__column-description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__column-img/work__column-img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__column-subtitle/work__column-subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__column-title/work__column-title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__column/work__column.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__content/work__content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/__dividing-line/work__dividing-line.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/work/work.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__column/_orientation/testimonials__column_orientation_left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__column/_orientation/testimonials__column_orientation_right.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__column/testimonials__column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__content/testimonials__content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__text/_orientation/testimonials__text_orientation_left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__text/_orientation/testimonials__text_orientation_right.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/__text/testimonials__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/testimonials/testimonials.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/title/__text/_section/title__text_section_testimonials.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/title/__title/_section/title__title_section_testimonials.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/title/_section/title_section_testimonials.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__dividing-line/header__dividing-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__dividing-line/header__dividing-line.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/title/__subtitle/_section/title__subtitle_section_work.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/title/_section/title_section_work.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/title/_section/title_section_work.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -77,7 +74,7 @@
       <workItem from="1629650447820" duration="13929000" />
       <workItem from="1629815467927" duration="603000" />
       <workItem from="1630692536638" duration="1622000" />
-      <workItem from="1630777420560" duration="35944000" />
+      <workItem from="1630777420560" duration="38716000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1629736671170</created>
@@ -135,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631103358305</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="work">
+      <created>1631174243112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631174243112</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,25 +153,26 @@
     <MESSAGE value="header" />
     <MESSAGE value="portfolio banners" />
     <MESSAGE value="portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio" />
+    <MESSAGE value="work" />
+    <option name="LAST_COMMIT_MESSAGE" value="work" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629733068183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1629733068183" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1631103357771">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1631174242420">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631103357771" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631174242420" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630742633586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630742633586" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1631103364365">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1631174246441">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631103364365" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631174246441" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631092489379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
