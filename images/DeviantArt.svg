@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 64" width="63" height="64">
+	<title>DeviantArt</title>
+	<defs>
+		<image  width="61" height="61" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAA9CAMAAAApvJHbAAAAAXNSR0IB2cksfwAAAJlQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////1R0EVAAAADN0Uk5TAEB5l6nA1un/79ywm4FQEEe09cRcB2TM4gpx0A2JFI4auGEwMzm88vpYJshobCGhkXwGU/d22QAAAoJJREFUeJylV2FjojAMLSpQxKqoc5zIpuhuqFPZ/v+PW0JROZrSerwPc9A8XtomacoYDafXH7iez4OhG47EeKIxozCNZryB+cKO+rL0JCG8MV/Lv3HP7MCfVYymiSseYmsRzvFlkL4ZfB6imfuumPVKT/xlC3ezRZNoRQ5mKS7G605H3qNwov/8x18Y/xxrvM5hTPW5jnJRSNcOQI6PbVzAEdc/Vd9n6LXFnkRgN6LIpxcjubJsqH/gPtlwAWOw/frHn6E9mbEz57NL7bnP+fCitVYAOzd/PO1huaf2ZMaCuu+wDddnyOi7fwuMg8VGNwC+Fw/p7+fIjOV8JoNjCjv9o7OaJJg4jvI+5bxX/hOSsVdBcJq9gF3C37ecJ9rUmAQaNmri2xXn7wZpil3IfYKPaFP6EmjZG4/HjP0EPNJJ3hBQuQe188j2UG1M7Izyq4/xBqEyMLBjclZnDBhBhYowS2O8hexKhYowSzMGtQiXXB0QFtLA9tmWYmcuwCAN7ICdKDZiV7E19RvZOa2NcA3SpfZAw3bqUydiTc57pElP14Kd0PvdkKbZuN9krDWkSXYZa2ScN6RJdhnnkGNbdSgxs8FkV+b3V3Mkq1iFkCBOCpnf0v8GqkhtK/KFPEqhrnnNulax2w6nqq7hb7OwCaP0oaqpVD0XRulHmJyUgHFwqbTpgbifJR3PMRRXWpFW4Bl6r7Pdzu//6B1OtcdufUu3nomxJX+mX1OOTaRb9IrriCJXfapp6faaPlX2yHmxaSOf8USm23fZn3tKst/htPXnMKkrJseW/vgizXFl2+bmtN9LAr1jEufyTuRRd6LP1OJSl9H3Mb+3NnMRHe6CEnb30F9Y+zfUtehqRwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="1" y="2" />
+</svg>

@@ -91,3 +91,8 @@
 @import url(../blocks/testimonials/__text/_orientation/testimonials__text_orientation_right.css);
 @import url(../blocks/testimonials/__text/_orientation/testimonials__text_orientation_left.css);
 
+@import url(../blocks/social/social.css);
+@import url(../blocks/social/__list/social__list.css);
+@import url(../blocks/social/__list-item/social__list-item.css);
+@import url(../blocks/social/__list-link/social__list-link.css);
+@import url(../blocks/social/__list-img/social__list-img.css);

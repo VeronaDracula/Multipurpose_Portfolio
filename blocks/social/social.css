@@ -1,0 +1,7 @@
+.social {
+    background: #019edb;
+    box-sizing: border-box;
+    min-height: 154px;
+    display: flex;
+    justify-content: center;
+}

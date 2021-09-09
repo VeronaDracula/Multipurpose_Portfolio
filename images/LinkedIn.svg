@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>LinkedIn</title>
+	<defs>
+		<image  width="62" height="61" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA9CAMAAADCiyrYAAAAAXNSR0IB2cksfwAAAJxQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////kyDQZAAAADR0Uk5TABVZh6C1xtrw/+bTwKiQdTcJbs8wG+9MIJb4uHsGX4rJA/TyJkjfEK+a60Blq7CBdA1PKLLCnwIAAAK/SURBVHicpVfpYqIwEA4ClfGsgi6e9apUaHW17/9uO5OgK0lIQjt/QDKfc2ROxvTktfwgfGlH0On2+oPhaw2blkbjGCSK+okjeOJPOeLlDg3Fo/fHAZzO5sS76C9Xj2/rt02HPsatrRm8Wu6QbT8byweHgNsTG014PyLLNNQ6KvO5NTOvFj0mvT9qj7dLMmEzqTk+4WG3ZdLuEKCAXKvcqk9ONoGJighgV2g0WyD604Zm7BXdM39X0F+IVr7qKG0jXpbvI9olLJAmXbydtKqSOxqvEOW/VD6gQSdXNMrPAYZPvwcAx7SWW6U1Rub/6080zjDTGeD8/CNohGZsD3CPngOqfmgIxwjtl68BwJd0mtg8kR5hLkSOdpBX85Ais5eZ8RhmA/6yViyPKDMvZniSQ86LRw/gb/VI1CaL+gsR5Ne5wsmlDyzwN8FyUyvEGvGxxXbmdSEW/6KYmRUOZRnrcUYxE1/NfFlR6GISaycKwfSRD3ql57kLKSGwTaiuwOrU4jxGeFA2C+UmLgBLNsJ0McIftJa4WgA+8wA6FngkHrHM9gEz9g3QNsKjhGWiY8pXSVljlU46J/xNdj9Jt9qeCkEqnNtu9Tyrg3PP0+3/DC7uXRN1bnARdZqYd4NjubtqM84JjrdJkZCp8egE98uSoFYbJ3hYtjW11rnAH7VutJcrbYIJXmC40ENg+FslaB+Vlkq+XOethHUeytaCXSZ3nRnvdHpqcovm4p96HIlX0slM4XOHbdzfPyv9nV2bTRcp1ujK2NpotvHk2ea3kxXb0kzpPtcpc+mWhv4fT5XlTLuwoW97/UzLxER9lJtBhb6p5egnalbO8+eaQ+s8j4ahW2C60Cp3vfBtwjg1rIa0y+wGig/Tk8Muwx6bVChtUrTkWFaNkrxyj9uUHfK+x21uDmAi7RbZaA+t7LCz2h32Hw1xQqBzGlYUAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="1" y="2" />
+</svg>
