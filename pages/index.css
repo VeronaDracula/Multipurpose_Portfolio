@@ -3,6 +3,7 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
+@import url(../blocks/page/__dividing-line/page__dividing-line.css);
 
 @import url(../blocks/button/button.css);
 
@@ -75,7 +76,6 @@
 
 @import url(../blocks/work/work.css);
 @import url(../blocks/work/__content/work__content.css);
-@import url(../blocks/work/__dividing-line/work__dividing-line.css);
 @import url(../blocks/work/__column/work__column.css);
 @import url(../blocks/work/__column-img/work__column-img.css);
 @import url(../blocks/work/__column-description/work__column-description.css);
