@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef725daa-d2da-4558-918a-46fe66bc9911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/social/__list-img/social__list-img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/social/__list-item/social__list-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/social/__list-link/social__list-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/social/__list/social__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/social/social.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/DeviantArt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/LinkedIn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/digg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/google+.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/youtube.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/social/__content/social__content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/social/__list/social__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/social/__list/social__list.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -70,7 +59,7 @@
       <workItem from="1629650447820" duration="13929000" />
       <workItem from="1629815467927" duration="603000" />
       <workItem from="1630692536638" duration="1622000" />
-      <workItem from="1630777420560" duration="40687000" />
+      <workItem from="1630777420560" duration="41033000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1629736671170</created>
@@ -149,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631177049862</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="social">
+      <created>1631183405351</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1631183405351</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,25 +162,26 @@
     <MESSAGE value="work" />
     <MESSAGE value="testimonials" />
     <MESSAGE value="page__dividing-line" />
-    <option name="LAST_COMMIT_MESSAGE" value="page__dividing-line" />
+    <MESSAGE value="social" />
+    <option name="LAST_COMMIT_MESSAGE" value="social" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629733068183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1629733068183" />
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1631177049351">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1631183404805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631177049351" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631183404805" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630742633586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630742633586" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1631177053342">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1631183413273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631177053342" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631183413273" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631092489379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
