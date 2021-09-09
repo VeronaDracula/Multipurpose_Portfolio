@@ -10,10 +10,12 @@
 @import url(../blocks/title/title.css);
 @import url(../blocks/title/_section/title_section_work.css);
 @import url(../blocks/title/_section/title_section_testimonials.css);
+@import url(../blocks/title/_section/title_section_footer.css);
 @import url(../blocks/title/__img/title__img.css);
 @import url(../blocks/title/__text/title__text.css);
 @import url(../blocks/title/__text/_section/title__text_section_work.css);
 @import url(../blocks/title/__text/_section/title__text_section_testimonials.css);
+@import url(../blocks/title/__text/_section/title__text_section_footer.css);
 @import url(../blocks/title/__title/title__title.css);
 @import url(../blocks/title/__title/_section/title__title_section_work.css);
 @import url(../blocks/title/__title/_section/title__title_section_testimonials.css);
@@ -97,3 +99,14 @@
 @import url(../blocks/social/__list-item/social__list-item.css);
 @import url(../blocks/social/__list-link/social__list-link.css);
 @import url(../blocks/social/__list-img/social__list-img.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column-img/footer__column-img.css);
+@import url(../blocks/footer/__column-description/footer__column-description.css);
+@import url(../blocks/footer/__column-title/footer__column-title.css);
+@import url(../blocks/footer/__column-text/footer__column-text.css);
+@import url(../blocks/footer/__column-text/_type/footer__column-text_type_address.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__button/footer__button.css);

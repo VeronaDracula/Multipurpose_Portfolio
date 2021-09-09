@@ -1,0 +1,11 @@
+.footer {
+    background-image: url("../../images/back-footer.png");
+    background-position: center;
+    background-size: cover;
+    min-height: 513px;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

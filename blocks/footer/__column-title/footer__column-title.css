@@ -1,0 +1,11 @@
+.footer__column-title {
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0 0 19px 0;
+}
