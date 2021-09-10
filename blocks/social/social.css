@@ -5,3 +5,15 @@
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width: 768px){
+    .social {
+        min-height: 124px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .social {
+        min-height: 114px;
+    }
+}

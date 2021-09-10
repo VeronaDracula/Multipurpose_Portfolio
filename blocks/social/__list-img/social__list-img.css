@@ -2,3 +2,17 @@
     width: 61px;
     height: 61px;
 }
+
+@media screen and (max-width: 768px){
+    .social__list-img {
+        width: 45px;
+        height: 45px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .social__list-img {
+        width: 37px;
+        height: 37px;
+    }
+}
