@@ -7,4 +7,5 @@
 # Основной функционал:
 - При нажатии на кнорку TOP можно плавно переместиться в начало страницы  
 
-# Ссылка для просмотра: https://veronadracula.github.io/Multipurpose_Portfolio/
+# Ссылка для просмотра:  
+https://veronadracula.github.io/Multipurpose_Portfolio/
