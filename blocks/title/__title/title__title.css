@@ -8,3 +8,10 @@
     line-height: 33px;
     margin: 0;
 }
+
+@media screen and (max-width: 425px){
+    .title__title {
+        font-size: 30px;
+        line-height: 30px;
+    }
+}

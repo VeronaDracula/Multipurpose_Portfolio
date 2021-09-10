@@ -1,3 +1,9 @@
 .title__title_section_work {
     margin-bottom: 28px;
 }
+
+@media screen and (max-width: 425px){
+    .title__title_section_work {
+        margin-bottom: 20px;
+    }
+}
