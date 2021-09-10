@@ -5,3 +5,27 @@
     box-sizing: border-box;
     min-height: 1508px;
 }
+
+@media screen and (max-width: 1280px){
+    .portfolio {
+        min-height: 1308px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .portfolio {
+        min-height: 1000px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .portfolio {
+        min-height: 800px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .portfolio {
+        min-height: 600px;
+    }
+}

@@ -9,3 +9,58 @@
     text-transform: uppercase;
     margin: 0 0 28px 0;
 }
+
+@media screen and (max-width: 1280px){
+    .portfolio__banner-text-title {
+        font-size: 38px;
+        line-height: 30px;
+        margin: 0 0 25px 0;
+    }
+}
+
+@media screen and (max-width: 1120px){
+    .portfolio__banner-text-title {
+        font-size: 33px;
+        line-height: 27px;
+        margin: 0 0 20px 0;
+    }
+}
+
+@media screen and (max-width: 968px){
+    .portfolio__banner-text-title {
+        font-size: 27px;
+        line-height: 23px;
+        margin: 0 0 10px 0;
+    }
+}
+
+@media screen and (max-width: 840px){
+    .portfolio__banner-text-title {
+        font-size: 20px;
+        line-height: 17px;
+        margin: 0 0 10px 0;
+    }
+}
+
+@media screen and (max-width: 670px){
+    .portfolio__banner-text-title {
+        font-size: 15px;
+        line-height: 13px;
+        margin: 0 0 5px 0;
+    }
+}
+
+@media screen and (max-width: 530px){
+    .portfolio__banner-text-title {
+        font-size: 10px;
+        line-height: 10px;
+    }
+}
+
+@media screen and (max-width: 430px){
+    .portfolio__banner-text-title {
+        font-size: 7px;
+        line-height: 7px;
+        margin-bottom: 3px;
+    }
+}

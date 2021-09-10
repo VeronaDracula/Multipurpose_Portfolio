@@ -3,3 +3,9 @@
     text-align: center;
     top: 35.2%;
 }
+
+@media screen and (max-width: 1280px){
+    .portfolio__banner-text-container {
+        top: 30%;
+    }
+}
