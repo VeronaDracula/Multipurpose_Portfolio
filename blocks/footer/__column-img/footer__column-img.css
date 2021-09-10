@@ -3,3 +3,11 @@
     width: 73px;
     margin: 0 35px 0 0;
 }
+
+@media screen and (max-width: 425px){
+    .footer__column-img {
+        height: 63px;
+        width: 63px;
+        margin: 0 15px 0 0;
+    }
+}
