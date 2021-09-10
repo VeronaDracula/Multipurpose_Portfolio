@@ -6,3 +6,39 @@
     padding-bottom: 74px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1230px) {
+    .header {
+        min-height: 1750px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header {
+        min-height: 1560px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .header {
+        min-height: 1400px;
+    }
+}
+
+@media screen and (max-width: 734px) {
+    .header {
+        min-height: 1400px;
+    }
+}
+
+@media screen and (max-width: 587px) {
+    .header {
+        min-height: 1200px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .header {
+        min-height: 1000px;
+    }
+}

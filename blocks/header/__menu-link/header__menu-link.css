@@ -13,3 +13,21 @@
     cursor: pointer;
     color: #019edb;
 }
+
+@media screen and (max-width: 1024px) {
+    .header__menu-link {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 734px) {
+    .header__menu-link {
+        font-size: 7px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .header__menu-link {
+        font-size: 5px;
+    }
+}

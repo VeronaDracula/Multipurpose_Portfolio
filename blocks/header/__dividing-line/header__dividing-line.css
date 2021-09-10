@@ -1,3 +1,9 @@
 .header__dividing-line {
     margin: 0 66px;
 }
+
+@media screen and (max-width: 734px) {
+    .header__dividing-line {
+        display: none;
+    }
+}

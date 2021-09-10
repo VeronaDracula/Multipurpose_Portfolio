@@ -4,3 +4,13 @@
     padding: 38px 27px 38px 34px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 734px) {
+    .header__content-column {
+        margin-bottom: 20px;
+    }
+
+    .header__content-column:last-child {
+        margin-bottom: 0;
+    }
+}
