@@ -2,3 +2,9 @@
     position: absolute;
     top: 30%;
 }
+
+@media screen and (max-width: 1200px) {
+    .banner-text-top__text-container {
+        text-align: center;
+    }
+}

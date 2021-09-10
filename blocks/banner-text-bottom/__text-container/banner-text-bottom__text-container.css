@@ -2,3 +2,15 @@
     position: absolute;
     top: 19.8%;
 }
+
+@media screen and (max-width: 1360px) {
+    .banner-text-bottom__text-container {
+        top: 16%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .banner-text-bottom__text-container {
+        text-align: center;
+    }
+}

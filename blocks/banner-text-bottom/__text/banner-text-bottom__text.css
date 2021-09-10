@@ -7,3 +7,50 @@
     font-style: normal;
     margin: 0;
 }
+
+@media screen and (max-width: 1360px) {
+    .banner-text-bottom__text {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .banner-text-bottom__text {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .banner-text-bottom__text {
+        font-size: 12px;
+        max-width: 170px;
+    }
+}
+
+@media screen and (max-width: 926px) {
+    .banner-text-bottom__text {
+        font-size: 11px;
+        max-width: 155px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .banner-text-bottom__text {
+        font-size: 9px;
+        max-width: 125px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .banner-text-bottom__text {
+        font-size: 6px;
+        max-width: 85px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .banner-text-bottom__text {
+        font-size: 5px;
+        max-width: 70px;
+    }
+}

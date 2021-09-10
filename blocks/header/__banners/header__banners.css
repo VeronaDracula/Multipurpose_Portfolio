@@ -1,6 +1,6 @@
 .header__banners {
     display: grid;
-    grid-template-columns: minmax(280px, 1084px);
+    grid-template-columns: minmax(260px, 1084px);
     align-items: center;
     justify-content: flex-end;
 
