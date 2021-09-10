@@ -5,6 +5,7 @@
 @import url(../blocks/page/__container/page__container.css);
 @import url(../blocks/page/__dividing-line/page__dividing-line.css);
 @import url(../blocks/page/__dividing-line/_section/page__dividing-line_section_work.css);
+@import url(../blocks/page/__dividing-line/_section/page__dividing-line_section_testimonials.css);
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_section/button_section_header.css);

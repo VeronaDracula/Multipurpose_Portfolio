@@ -1,3 +1,9 @@
 .testimonials__text_orientation_left {
     text-align: left;
 }
+
+@media screen and (max-width: 768px){
+    .testimonials__text_orientation_left {
+        text-align: center;
+    }
+}

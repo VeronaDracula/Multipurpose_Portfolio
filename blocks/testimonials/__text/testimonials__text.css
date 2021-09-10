@@ -7,3 +7,9 @@
     font-style: normal;
     margin: 0 0 37px 0;
 }
+
+@media screen and (max-width: 768px){
+    .testimonials__text {
+        margin-bottom: 25px;
+    }
+}
